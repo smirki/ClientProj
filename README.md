@@ -1,4 +1,4 @@
-# Project Name: Charlotte Applied Professional Practices Society (CAPPS) Consulting
+# Project Name: Charlotte Applied Professional Practices Society (CAPPS)
 
 ## Project Overview:
 The purpose of this web application is to serve as a platform for the Charlotte Applied Professional Practices Society, a pseudo-consulting group that combines business and computer science students to provide consulting services to non-profits and businesses in Charlotte. This website will serve as the primary contact point for potential clients and provide information about the group's services, projects, and member profiles. The intended users of this website are prospective clients and members of the society who are looking to participate in consulting projects.
